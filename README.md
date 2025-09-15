@@ -32,24 +32,3 @@ cd flutter-bildr-login-app
 flutter pub get
 flutter run
 
-
-📂 Structure
-lib/
-├── main.dart           # Entry point
-├── welcome_page.dart   # Welcome screen
-├── login_page.dart     # Login page
-├── signup_page.dart    # Signup page
-└── dashboard.dart      # Dashboard
-
-🎯 Widgets Used
-
-Core: Scaffold, Container, Column, Row, Text, Icon
-Forms: TextFormField, ElevatedButton, GestureDetector
-Navigation: Navigator, MaterialPageRoute
-Styling: BoxDecoration, LinearGradient, BorderRadius
-
-<div align="center">
-
-Built with Flutter 🚀
-
-</div> ```
