@@ -20,7 +20,7 @@
 
 | Welcome | Login | Signup | Dashboard |
 |---------|-------|--------|-----------|
-| ![Welcome](https://res.cloudinary.com/dq0mlhw2c/image/upload/v1757947479/Screenshot_2025-09-15_195732_mz8cpe.png) | ![Login](https://via.placeholder.com/200x400/E53E3E/FFFFFF?text=Login) | ![Signup](https://via.placeholder.com/200x400/9F7AEA/FFFFFF?text=Signup) | ![Dashboard](https://via.placeholder.com/200x400/4299E1/FFFFFF?text=Dashboard) |
+| <img src="https://res.cloudinary.com/dq0mlhw2c/image/upload/v1757947479/Screenshot_2025-09-15_195732_mz8cpe.png" width="200"/> | <img src="https://res.cloudinary.com/dq0mlhw2c/image/upload/v1757947478/Screenshot_2025-09-15_195917_lfox6p.png" width="200"/> | <img src="https://res.cloudinary.com/dq0mlhw2c/image/upload/v1757947478/Screenshot_2025-09-15_200027_vpvq8n.png" width="200"/> | <img src="https://res.cloudinary.com/dq0mlhw2c/image/upload/v1757947478/Screenshot_2025-09-15_200126_zdalsg.png" width="200"/> |
 
 ---
 
@@ -31,34 +31,25 @@ git clone https://github.com/yourusername/flutter-bildr-login-app.git
 cd flutter-bildr-login-app
 flutter pub get
 flutter run
-```
 
----
 
-## 📂 Structure
-
-```
+📂 Structure
 lib/
 ├── main.dart           # Entry point
 ├── welcome_page.dart   # Welcome screen
 ├── login_page.dart     # Login page
 ├── signup_page.dart    # Signup page
 └── dashboard.dart      # Dashboard
-```
 
----
+🎯 Widgets Used
 
-## 🎯 Widgets Used
-
-**Core:** Scaffold, Container, Column, Row, Text, Icon  
-**Forms:** TextFormField, ElevatedButton, GestureDetector  
-**Navigation:** Navigator, MaterialPageRoute  
-**Styling:** BoxDecoration, LinearGradient, BorderRadius
-
----
+Core: Scaffold, Container, Column, Row, Text, Icon
+Forms: TextFormField, ElevatedButton, GestureDetector
+Navigation: Navigator, MaterialPageRoute
+Styling: BoxDecoration, LinearGradient, BorderRadius
 
 <div align="center">
 
-**Built with Flutter** 🚀
+Built with Flutter 🚀
 
-</div>
+</div> ```
