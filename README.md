@@ -20,7 +20,7 @@
 
 | Welcome | Login | Signup | Dashboard |
 |---------|-------|--------|-----------|
-| ![Welcome](https://via.placeholder.com/200x400/FF8A00/FFFFFF?text=Welcome) | ![Login](https://via.placeholder.com/200x400/E53E3E/FFFFFF?text=Login) | ![Signup](https://via.placeholder.com/200x400/9F7AEA/FFFFFF?text=Signup) | ![Dashboard](https://via.placeholder.com/200x400/4299E1/FFFFFF?text=Dashboard) |
+| ![Welcome](https://res.cloudinary.com/dq0mlhw2c/image/upload/v1757947479/Screenshot_2025-09-15_195732_mz8cpe.png) | ![Login](https://via.placeholder.com/200x400/E53E3E/FFFFFF?text=Login) | ![Signup](https://via.placeholder.com/200x400/9F7AEA/FFFFFF?text=Signup) | ![Dashboard](https://via.placeholder.com/200x400/4299E1/FFFFFF?text=Dashboard) |
 
 ---
 
